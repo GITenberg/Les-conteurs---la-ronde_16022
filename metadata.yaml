@@ -1,0 +1,41 @@
+_repo: Les-conteurs---la-ronde_16022
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Pichot, Amédée
+    aliases:
+    - Pichot, Amedee
+    - Pichot, Joseph Jean Marie Charles Amédée
+    birthdate: 1795
+    deathdate: 1877
+    gutenberg_agent_id: '6424'
+    url: http://www.gutenberg.org/2009/agents/6424
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2005-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16022'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+title: Les conteurs à la ronde
+url: http://www.gutenberg.org/ebooks/16022
